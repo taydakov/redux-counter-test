@@ -1,0 +1,1 @@
+Simple Counter example implemented with Redux framework following https://github.com/rackt/redux/tree/master/examples/counter

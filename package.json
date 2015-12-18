@@ -1,0 +1,58 @@
+{
+  "name": "redux-counter-test",
+  "version": "1.0.0",
+  "description": "Simple Counter app with Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taydakov/redux-counter-test.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "counter"
+  ],
+  "author": "One University Network",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taydakov/redux-counter-test/issues"
+  },
+  "homepage": "https://github.com/taydakov/redux-counter-test#readme",
+  "dependencies": {
+    "babel-core": "^6.0.20",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-preset-react": "^6.0.0",
+    "bootstrap": "^3.3.5",
+    "css-loader": "^0.21.0",
+    "events": "^1.1.0",
+    "extract-text-webpack-plugin": "^0.9.0",
+    "file-loader": "^0.8.4",
+    "flux": "^2.1.1",
+    "history": "^1.13.1",
+    "jquery": "^2.1.4",
+    "json-loader": "^0.5.3",
+    "keymirror": "^0.1.1",
+    "lodash": "^3.10.1",
+    "node-sass": "^3.4.1",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "react-router": "^1.0.0-rc4",
+    "redux": "^3.0.5",
+    "request": "^2.65.0",
+    "sass-loader": "^3.1.1",
+    "style-loader": "^0.13.0",
+    "superagent": "^1.4.0",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {
+    "babel-plugin-react-transform": "^1.1.1",
+    "eslint": "^1.9.0",
+    "eslint-loader": "^1.1.1",
+    "eslint-plugin-react": "^3.9.0",
+    "react-hot-loader": "^1.3.0"
+  }
+}
