@@ -4,7 +4,7 @@ const path = require('path');
 
 const config = {
 	entry: {
-		app: ['./src/App.js'],
+		app: ['./src/index.js'],
 		html: ['./src/index.html']
 	},
 	module: {
